@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @naveenkumarv07 - 
+- 👋 Hi, I’m @naveenkumarv07 - MR.Naveen kumar V
 I’m interested in Data Analyst,Data Scientist,BigData, -
  🌱 I’m currently learning ...ML AND Data scientist -
 💞️ I’m looking to collaborate on ... Data Enthusiast -
